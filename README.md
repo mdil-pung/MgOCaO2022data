@@ -9,4 +9,6 @@ This is the data repository for the publication:
 The NNP models are compatible with SIMPLE-NN code.
 Installation, manual, and full details: https://simple-nn-v2.readthedocs.io
 
-To unpack the split-compressed tarballs in linux, try to use the following command `cat PRM_2022_SCAN_OUTCAR_Lee.tar.gz* | tar zxvf -`.
+To unpack the split-compressed tarballs in linux, try to use the following command:
+
+`cat PRM_2022_SCAN_OUTCAR_Lee.tar.gz* | tar zxvf -`.
