@@ -4,7 +4,7 @@ This is the data repository for the publication:
 
 ## Data description
 - NNP models trained from PBE or SCAN functional `MgOCaO_2022_Lee.*.NNP`
-- VASP OUTCARs used to train SCAN-NNP as split-compressed tarballs `PRM_2022_SCAN_OUTCAR_Lee.tar.gz`
+- VASP OUTCARs used to train SCAN-NNP as split-compressed tarballs `PRM_2022_SCAN_OUTCAR_Lee.tar.gz*`
 
 The NNP models are compatible with SIMPLE-NN code.
 Installation, manual, and full details: https://simple-nn-v2.readthedocs.io
