@@ -1,7 +1,12 @@
-This is the repository for the publication https://arxiv.org/abs/2208.11863 in 2022 by Lee.
+This is the data repository for the publication:
 
-The NNP can be used by LAMMPS package. For installation and details, please refer to the SIMPLE-NN code.
+[*Ab initio* construction of full phase diagram of MgO-CaO eutectic system using neural network interatomic potentials](https://arxiv.org/abs/2208.11863).
 
-SCAN training data are also attached as split tarballs.
+## Data description
+- NNP models trained from PBE or SCAN functional `MgOCaO_2022_Lee.*.NNP`
+- VASP OUTCARs used to train SCAN-NNP as split-compressed tarballs `PRM_2022_SCAN_OUTCAR_Lee.tar.gz`
 
-To unzip those data in linux, an example command is `cat PRM_2022_SCAN_OUTCAR_Lee.tar.gz* | tar zxvf -`.
+The NNP models are compatible with SIMPLE-NN code.
+Installation, manual, and full details: https://simple-nn-v2.readthedocs.io
+
+To unpack the split-compressed tarballs in linux, try to use the following command `cat PRM_2022_SCAN_OUTCAR_Lee.tar.gz* | tar zxvf -`.
