@@ -1,4 +1,4 @@
-This is the data repository for the publication of K. Lee, Y, Park, and S. Han:
+This is the data repository for the publication of K. Lee, Y. Park, and S. Han:
 
 [*Ab initio* construction of full phase diagram of MgO-CaO eutectic system using neural network interatomic potentials](https://arxiv.org/abs/2208.11863).
 
