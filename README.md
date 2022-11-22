@@ -1,6 +1,6 @@
 This is the data repository for the publication of K. Lee, Y. Park, and S. Han:
 
-[*Ab initio* construction of full phase diagram of MgO-CaO eutectic system using neural network interatomic potentials](https://arxiv.org/abs/2208.11863).
+[*Ab initio* construction of full phase diagram of MgO-CaO eutectic system using neural network interatomic potentials](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.113802).
 
 ## Data description
 - NNP models trained from PBE or SCAN functional `MgOCaO_2022_Lee.*.nnp`
